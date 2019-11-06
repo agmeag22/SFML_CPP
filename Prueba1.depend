@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1572982588 source:/home/fundamentos/Escritorio/Prueba1/main.cpp
+1572998247 source:/home/fundamentos/Escritorio/Prueba1/main.cpp
 	<SFML/Graphics.hpp>
 	<unistd.h>
 	<stdlib.h>
